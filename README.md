@@ -33,6 +33,7 @@ I'm Open to work Freelance and Fulltime Work.
 ### Database :
 - MySQL
 - SQL Server
+- SQLite
 
 ### Design Tools:
 - Figma
