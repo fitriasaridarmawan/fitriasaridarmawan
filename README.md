@@ -9,8 +9,8 @@ I'm a Fullstackk Developer with 3-4 years work experienced in IT Tech.
 - 😄 Pronouns: [She/Her](https://www.mypronouns.org/he-him)
 
 
-[![Gmail Badge](https://img.shields.io/badge/-sdey9@uic.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fitriasaridarmawan4@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fitria-sari-darmawan/ "Connect on LinkedIn")
+[![Gmail Badge](https://img.shields.io/badge/-fitriasaridarmawan-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fitriasaridarmawan4@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-fitriasaridarmawan?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fitria-sari-darmawan/ "Connect on LinkedIn")
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/wmdevs_drmwn/)
 [<img src="https://img.shields.io/github/followers/fitriasaridarmawan?label=follow&style=social" height="22" title="Follow me" />](https://github.com/fitriasaridarmawan) 
 
@@ -19,7 +19,6 @@ I'm a Fullstackk Developer with 3-4 years work experienced in IT Tech.
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black&labelColor=black">
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="93 9.5 40 40">
