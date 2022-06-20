@@ -1,14 +1,14 @@
-### Hello World, I am Fitria a.k.a Tania Angelika  👋
-
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-I'm Graduated My Bachelor Degree at Polytechnic STMI of Jakarta - Jakarta
-I'm a Fullstack Developer with 3-4 years work experienced in IT Tech.
+### Hello World, I am Fitria Sari Tania  👋
 
-- 💻 I'm currently learning Mobile Programming and Devops
-- 😄 Pronouns: [She/Her](https://www.mypronouns.org/she-her)
+I'm Graduated My Bachelor Degree at Polytechnic STMI of Jakarta - Jakarta.
+I'm a Junior Fullstack Programmer (Front and Backend) with 3-4 years work experienced in IT Tech.
+😄 Pronouns: [She/Her](https://www.mypronouns.org/she-her).
+💻 I'm currently learning Mobile Programming and Devops.
+I'm Open to work Freelance and Fulltime Work.
 
-
+- 📮 how To Reach Me:
 [![Gmail Badge](https://img.shields.io/badge/-fitriasaridarmawan-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fitriasaridarmawan4@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-fitriasaridarmawan?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fitria-sari-darmawan/ "Connect on LinkedIn")
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/wmdevs_drmwn/)
@@ -20,6 +20,7 @@ I'm a Fullstack Developer with 3-4 years work experienced in IT Tech.
 
 ### Programming Tools:
 - Visual Studio Code
+- Android Studio
 - Sublime
 - Atom
 - Navicat
@@ -37,6 +38,9 @@ I'm a Fullstack Developer with 3-4 years work experienced in IT Tech.
 - Figma
 - Adobe XD
 
+### Operating System:
+- Linux
+- Windows
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fitriasaridarmawan&show_icons=true&theme=radical)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fitriasaridarmawan&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fitriasaridarmawan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
