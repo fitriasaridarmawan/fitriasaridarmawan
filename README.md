@@ -21,8 +21,7 @@ I'm a Fullstackk Developer with 3-4 years work experienced in IT Tech.
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black&labelColor=black">
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
-   <img src="https://img.shields.io/badge/laravel%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
-   <img src="https://img.shields.io/badge/android-studio%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+  <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/firebase-icon.svg" alt="Firebase Icon" />
 </div>
 <br/>
 
