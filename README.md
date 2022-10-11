@@ -2,8 +2,8 @@
 
 ### Hello World, I am Fitria Sari Tania  👋
 
-I'm Graduated My Bachelor Degree at Polytechnic STMI of Jakarta - Jakarta.
-I'm a Junior Fullstack Programmer (Front and Backend) with 3-4 years work experienced in IT Tech.
+I'm Graduated My Bachelor Degree Polytechnic STMI of Jakarta - Jakarta.
+I'm a Junior Fullstack Programmer (Front and Backend) web apps and mobile apps with 3-4 years work experienced in IT Tech.
 😄 Pronouns: [She/Her](https://www.mypronouns.org/she-her).
 💻 I'm currently learning Mobile Programming and Devops.
 I'm Open to work Freelance and Fulltime Work.
