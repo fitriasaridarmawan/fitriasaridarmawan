@@ -3,9 +3,9 @@
 ### Hello World, I am Fitria Sari Tania  👋
 
 I'm Graduated My Bachelor Degree Polytechnic STMI of Jakarta - Jakarta.
-I'm a Junior Fullstack Programmer (Front and Backend) web apps and mobile apps with 3-4 years work experienced in IT Tech.
+I'm a Junior Fullstack Programmer (Front and Backend) web apps,mobile apps and as400 with 4-5 years work experienced in IT Tech.
 😄 Pronouns: [She/Her](https://www.mypronouns.org/she-her).
-💻 I'm currently learning Mobile Programming and Devops.
+💻 I'm currently learning Mobile Programming, Devops, RPGLE (AS400 IBM) Programming.
 I'm Open to work Freelance and Fulltime Work.
 
 - 📮 how To Reach Me:
@@ -17,6 +17,7 @@ I'm Open to work Freelance and Fulltime Work.
 ### Programming Languages:
 - PHP - Laravel/Lumen and Native
 - Java - Android Studio (Mobile Programming)
+- RPGLE - AS400 IBM 
 
 ### Programming Tools:
 - Visual Studio Code
@@ -25,6 +26,7 @@ I'm Open to work Freelance and Fulltime Work.
 - Atom
 - Navicat
 - Tortoise SVN
+- AS400 IBM 
 
 ### Project Management:
 - Jira Atlasian
@@ -34,6 +36,7 @@ I'm Open to work Freelance and Fulltime Work.
 - MySQL
 - SQL Server
 - SQLite
+- DB2 (AS400)
 
 ### Design Tools:
 - Figma
