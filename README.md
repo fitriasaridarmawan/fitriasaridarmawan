@@ -6,7 +6,7 @@ I'm Graduated My Bachelor Degree Polytechnic STMI of Jakarta - Jakarta.
 I'm in a Fifth years experienced of Fullstack Programmer (Front and Backend) web apps,mobile apps and as400 in IT Tech.
 😄 Pronouns: [She/Her](https://www.mypronouns.org/she-her).
 💻 I'm currently learning Mobile Programming, Devops, RPGLE (AS400 IBM) Programming.
-I'm Open to work Freelance and Fulltime Work.
+I'm Open to work Freelance and Fulltime Work, and also open to work remotely, hybrid, onsite ways.
 
 - 📮 how To Reach Me:
 [![Gmail Badge](https://img.shields.io/badge/-fitriasaridarmawan-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fitriasaridarmawan4@gmail.com "Connect via Email")
