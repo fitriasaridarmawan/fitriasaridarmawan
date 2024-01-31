@@ -10,7 +10,7 @@ I'm Open to work Freelance and Fulltime Work.
 
 - 📮 how To Reach Me:
 [![Gmail Badge](https://img.shields.io/badge/-fitriasaridarmawan-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fitriasaridarmawan4@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-fitriasaridarmawan?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fitria-sari-darmawan/ "Connect on LinkedIn")![Instagram Badge]
+[![Linkedin Badge](https://img.shields.io/badge/-fitriasaridarmawan?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fitria-sari-darmawan/ "Connect on LinkedIn")
 [<img src="https://img.shields.io/github/followers/fitriasaridarmawan?label=follow&style=social" height="22" title="Follow me" />](https://github.com/fitriasaridarmawan) 
 
 ### Programming Languages:
